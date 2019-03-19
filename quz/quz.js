@@ -16,7 +16,6 @@ function dcate(A, B) {
 			break;
 		}
 	}
-
 	return A
 }
 
